@@ -1,0 +1,38 @@
+class Model {
+      String? name,
+          add,
+          email,
+          number,
+          about,
+          s1,
+          s2,
+          s3,
+          s4,
+          p1,
+          p2,
+          dgree,
+          school,
+          mark,
+          yop,
+          image,photo;
+
+      Model(
+          {this.name,
+                this.add,
+                this.email,
+                this.number,
+                this.about,
+                this.s1,
+                this.s2,
+                this.s3,
+                this.s4,
+                this.p1,
+                this.p2,
+                this.dgree,
+                this.school,
+                this.mark,
+                this.yop,
+                this.image,
+                this.photo,
+          });
+}
