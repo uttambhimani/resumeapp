@@ -374,6 +374,7 @@ class _homeState extends State<home> {
               //   }
               // },
             ),
+            Text("kjhgfdfgh")
           ],
         ),
       ),
